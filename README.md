@@ -1,16 +1,32 @@
-## Hi there 👋
+# Web Development Project (Intern Level)
 
-<!--
-**nipuninduwaraedu/nipuninduwaraedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This repository contains a web development project built as part of my preparation for a **Software Developer Internship**.  
+The project focuses on **frontend fundamentals** and **basic MERN stack integration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript 
+- React 
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB 
+
+---
+
+## Features
+- Responsive user interface
+- Form handling and validation
+- API communication between frontend and backend
+- Basic CRUD operations
+- Simple authentication flow 
+
