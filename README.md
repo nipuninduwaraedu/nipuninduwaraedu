@@ -1,32 +1,90 @@
-# Web Development Project (Intern Level)
+# 👋 Hi, I'm Nipun Induwara
 
-## Overview
-This repository contains a web development project built as part of my preparation for a **Software Developer Internship**.  
-The project focuses on **frontend fundamentals** and **basic MERN stack integration**.
+🎯 Aspiring Full-Stack Web Developer  
+💻 MERN Stack & Next.js Developer  
+🤖 Building AI-Powered Web Applications  
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Frontend
-- HTML
-- CSS
+I’m a passionate web developer focused on building modern, responsive, and intelligent web applications.
+
+I enjoy working across the full stack — from crafting clean user interfaces to designing scalable backend systems and integrating AI-driven features.
+
+My goal is to develop real-world, production-style applications that combine performance, usability, and smart functionality.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML  
+- CSS3  
 - JavaScript 
-- React 
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB 
+- React.js  
+- Next.js  
 
 ---
 
-## Features
-- Responsive user interface
-- Form handling and validation
-- API communication between frontend and backend
-- Basic CRUD operations
-- Simple authentication flow 
+### ⚙️ Backend
+- Node.js  
+- Express.js  
 
+---
+
+### 🗄️ Databases
+- MongoDB  
+- SQL  
+
+---
+
+### 🤖 AI & Modern Technologies
+- LLM API Integration   
+- Retrieval-Augmented Generation (RAG)  
+- AI-Enhanced Web Features  
+
+---
+
+## 💡 Core Competencies
+
+✅ Responsive & Modern UI Development  
+✅ Full-Stack Application Development  
+✅ REST API Design  
+✅ Database Design & Query Optimization  
+✅ AI Integration in Web Applications  
+✅ RAG-based Intelligent Systems  
+
+---
+
+## 📈 Currently Exploring
+
+- Advanced Next.js patterns  
+- Scalable backend architecture  
+- AI-enhanced application design  
+- Performance optimization strategies  
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a:
+
+👉 Web Development Intern  
+👉 Full-Stack Developer Intern  
+
+I’m eager to contribute to real-world projects, collaborate with teams, and continuously improve my engineering skills.
+
+---
+
+## 📫 Connect With Me
+ 
+- Email: nipuninduwara.edu@gmail.com 
+
+---
+
+I love combining **Web Development + AI** to build smarter digital experiences 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
