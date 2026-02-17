@@ -20,7 +20,7 @@ My goal is to develop real-world, production-style applications that combine per
 
 ### 🌐 Frontend
 - HTML  
-- CSS3  
+- CSS
 - JavaScript 
 - React.js  
 - Next.js  
@@ -78,7 +78,8 @@ I’m eager to contribute to real-world projects, collaborate with teams, and co
 ---
 
 ## 📫 Connect With Me
- 
+
+- Linkedin:https://www.linkedin.com/in/nipun-induwara-0237753b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: nipuninduwara.edu@gmail.com 
 
 ---
