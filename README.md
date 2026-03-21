@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nipun Induwara
 
 🎯 Aspiring Full-Stack Web Developer  
-💻 MERN Stack & Next.js Developer  
+💻 MERN Stack Developer  
 🤖 Building AI-Powered Web Applications  
 
 ---
@@ -21,9 +21,9 @@ My goal is to develop real-world, production-style applications that combine per
 ### 🌐 Frontend
 - HTML  
 - CSS
-- JavaScript 
-- React.js  
-- Next.js  
+- JavaScript
+- TypeScript
+- React.js    
 
 ---
 
@@ -40,8 +40,7 @@ My goal is to develop real-world, production-style applications that combine per
 ---
 
 ### 🤖 AI & Modern Technologies
-- LLM API Integration   
-- Retrieval-Augmented Generation (RAG)  
+- LLM API Integration    
 - AI-Enhanced Web Features  
 
 ---
@@ -52,17 +51,17 @@ My goal is to develop real-world, production-style applications that combine per
 ✅ Full-Stack Application Development  
 ✅ REST API Design  
 ✅ Database Design & Query Optimization  
-✅ AI Integration in Web Applications  
-✅ RAG-based Intelligent Systems  
+✅ AI Integration in Web Applications   
 
 ---
 
-## 📈 Currently Exploring
+## 📈 Currently Learning
 
-- Advanced Next.js patterns  
-- Scalable backend architecture  
-- AI-enhanced application design  
-- Performance optimization strategies  
+- Next.js patterns  
+- RAG system integration into website   
+- AI-enhanced application design
+- Python language ( data structure & algorithem , RAG system development)
+- Docker , AWS basics for deoploy the project 
 
 ---
 
@@ -79,7 +78,7 @@ I’m eager to contribute to real-world projects, collaborate with teams, and co
 
 ## 📫 Connect With Me
 
-- Linkedin:https://www.linkedin.com/in/nipun-induwara-0237753b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Linkedin:www.linkedin.com/in/nipun-induwara
 - Email: nipuninduwara.edu@gmail.com 
 
 ---
