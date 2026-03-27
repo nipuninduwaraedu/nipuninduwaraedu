@@ -22,7 +22,6 @@ My goal is to develop real-world, production-style applications that combine per
 - HTML  
 - CSS
 - JavaScript
-- TypeScript
 - React.js    
 
 ---
@@ -49,8 +48,6 @@ My goal is to develop real-world, production-style applications that combine per
 
 ✅ Responsive & Modern UI Development  
 ✅ Full-Stack Application Development  
-✅ REST API Design  
-✅ Database Design & Query Optimization  
 ✅ AI Integration in Web Applications   
 
 ---
@@ -61,7 +58,7 @@ My goal is to develop real-world, production-style applications that combine per
 - RAG system integration into website   
 - AI-enhanced application design
 - Python language ( data structure & algorithem , RAG system development)
-- Docker , AWS basics for deoploy the project 
+- Web deployment 
 
 ---
 
